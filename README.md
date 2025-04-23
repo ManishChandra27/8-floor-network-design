@@ -1,7 +1,5 @@
 # 8-floor-network-design
 A Cisco Packet Tracer project implementing dynamic routing (RIP) for an 8-floor office using hybrid, mesh, and bus topologies, with DHCP, DNS, FTP, and Mail services.
-# 8-Floor Network Design
-
 This project demonstrates the design and simulation of a network infrastructure for an 8-floor office building using Cisco Packet Tracer.
 
 ## Features:
